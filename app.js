@@ -42,4 +42,3 @@ const fetchPokemon = () => {
 fetchPokemon ()
 
 
-// VIDEO 18:23
